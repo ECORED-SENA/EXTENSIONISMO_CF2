@@ -1,8 +1,8 @@
-# **El extensionismo y sus fundamentaciones**
+# **El diagnóstico empresarial, formación y plan de mejora**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/EXTENSIONISMO_CF1/](https://ecored-sena.github.io/EXTENSIONISMO_CF1/)
+[https://ecored-sena.github.io/EXTENSIONISMO_CF2/](https://ecored-sena.github.io/EXTENSIONISMO_CF2/)
 
 #
 
