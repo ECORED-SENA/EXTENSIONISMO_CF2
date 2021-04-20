@@ -194,7 +194,7 @@ export const creditos = {
 export const referencias = [
   {
     referencia:
-      'Academia de Extensionismo Tecnológico. (25 septiembre de 2020). Parte 1. Semana de transferencia de conocimientos nuevos colaboradores. [Video]. YouTube. https://www.youtube.com/watch?v=shhELBfknBs&t=1361s',
+      'Academia de Extensionismo Tecnológico. (25 septiembre de 2020). Parte 1. Semana de transferencia de conocimientos nuevos colaboradores. [Video]. YouTube.',
     link: 'https://www.youtube.com/watch?v=shhELBfknBs&t=1361s',
   },
   {
