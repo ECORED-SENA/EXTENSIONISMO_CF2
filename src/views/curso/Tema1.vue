@@ -16,10 +16,8 @@
           p Inicialmente, se valida con cada empresa el autodiagnóstico diseñado y aplicado por MinCIT, en el marco de la articulación del programa con MinTIC y SENA. En este autodiagnóstico se identifica, en la empresa, su grado de madurez digital para el nivel que le corresponda dentro de los procesos evaluados. Se validan, igualmente, las 15 variables iniciales del plan de mejora y las necesidades actuales de cada empresa en función de una relación entre alcance, tiempos y recursos de cada organización.
     p.mt-5 Posteriormente, se define un listado de necesidades, con la finalidad de desarrollar un match (cruce de datos) con el autodiagnóstico, en relación con la información suministrada por el empresario y las necesidades actuales de la empresa; luego se procede a elegir estratégicamente sobre qué dimensión, nivel y/o variables se espera trabajar, de cara al proceso de extensionismo tecnológico. Y, finalmente, se realiza un acuerdo con el empresario, en relación con los tiempos y estrategias para la coordinación efectiva entre las partes, que faciliten el cumplimiento de objetivos del plan de mejora y de sus necesidades.
     .row.justify-content-center.align-items-stretch.mt-5.p-5.bg-1
-      .col-11
+      .col-12
         img.img-t.img-a(src='@/assets/ilustraciones/img1.png', alt='') 
-      .col-auto      
-        img.img-t.img-a(src='@/assets/ilustraciones/img2.png', alt='') 
 
     .h4.mt-5 Fundamentos de diagnóstico empresarial
 
