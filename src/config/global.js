@@ -1,7 +1,7 @@
 export const global = {
   componenteFormativo: 'El diagnóstico empresarial, formación y plan de mejora',
   descripcionCurso:
-    'El programa de extensionismo tecnológico del SENA busca que los profesionales consultores que trabajan la metodología desde los roles de gestor consultor y extensionista tecnológico adquieran las competencias propicias y desarrolladas en el marco de la implementación de la estrategia y, al mismo tiempo, fortalezcan sus saberes, conocimientos y competencias relacionados con la gestión empresarial y gestión informática requerida para el cambio de la transformación digital en las empresas en Colombia.',
+    'Este componente presenta las generalidades del auto diagnóstico en donde se validan las variables y necesidades de cada empresa en función de una relación entre alcance, tiempos y recursos de cada organización. En esta etapa de la metodología de extensionismo tecnológico se determina un listado de necesidades, con la finalidad de desarrollar un match (cruce de datos), con la información suministrada por el empresario en el auto diagnóstico y las necesidades actuales de la empresa, para finalmente elegir aquellas variables que se trabajarán en el proceso de extensionismo tecnológico.',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
