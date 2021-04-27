@@ -9,7 +9,7 @@
     .titulo-segundo#t_1_1.mt-5
       .h4 1.1  Fundamentos de diagnóstico empresarial 
     .h4 El diagnóstico empresarial, formación y plan de mejora
-    p En este componente formativo de se abordará la etapa de Identificación de necesidades, la cual estará apoyada por la plataforma informática SoftWhere, como herramienta tecnológica y los formatos definidos en la metodología de extensionismo tecnológico para priorizar estas necesidades.
+    p En este componente formativo se abordará la etapa de Identificación de necesidades, la cual estará apoyada por la plataforma informática SoftWhere, como herramienta tecnológica y los formatos definidos en la metodología de extensionismo tecnológico para priorizar estas necesidades.
     .row.mt-5
       .col-12
         .cajon--azul.p-4.mb-5.mb-lg-0
@@ -20,26 +20,28 @@
         img.img-t.img-a(src='@/assets/ilustraciones/img1.png', alt='') 
 
     .h4.mt-5 Fundamentos de diagnóstico empresarial
+    p.mt-5 Colombia productiva (2019) del Ministerio de Industria, Comercio y Turismo (MinCIT) en articulación con la empresa SoftWhere, desarrollaron un autodiagnóstico empresarial de las MiPymes en las siguientes dimensiones:    
+    .row.justify-content-center.align-items-center
+      .col-11
+        .row.mt-5
+          .col-md-6.col-lg
+            .tarjeta-Avatar
+              img(src='@/assets/ilustraciones/img3.svg' alt='AvatarTop')
+              .tarjeta.tarjeta--morada.tarjeta-avatar.p-4
+                .h4.text-tarjeta-avatar.text-center Implementación digital
+                p.text-tarjeta-avatar.text-center.px-4.pb-4 Mide la inversión en iniciativas tecnológicas para cambiar la gestión operativa de la empresa (relación con clientes, operaciones, modelo de negocio). Muchas organizaciones están invirtiendo en esta dimensión, pero los problemas se originan, en algunos casos, por la falta de una estrategia coordinada de la organización.
 
-    .row.mt-5
-      .col-md-6.col-lg.mb-5
-        .tarjeta-Avatar
-          img(src='@/assets/ilustraciones/img3.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--morada.tarjeta-avatar.p-4
-            .h4.text-tarjeta-avatar.text-center Implementación digital
-            p.text-tarjeta-avatar.text-center Mide la inversión en iniciativas tecnológicas para cambiar la gestión operativa de la empresa (relación con clientes, operaciones, modelo de negocio). Muchas organizaciones están invirtiendo en esta dimensión, pero los problemas se originan, en algunos casos, por la falta de una estrategia coordinada de la organización.
 
-
-      .col-md-6.col-lg.mb-5
-        .tarjeta-Avatar
-          img(src='@/assets/ilustraciones/img4.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--morada.tarjeta-avatar.p-4
-            .h4.text-tarjeta-avatar.text-center Gestión de la digitalización
-            p.text-tarjeta-avatar.text-center Las organizaciones situadas en esta dimensión están creando internamente las capacidades de liderazgo necesarias para transformar digitalmente y de manera integral toda la organización. 
+          .col-md-6.col-lg
+            .tarjeta-Avatar
+              img(src='@/assets/ilustraciones/img4.svg' alt='AvatarTop')
+              .tarjeta.tarjeta--morada.tarjeta-avatar.p-4
+                .h4.text-tarjeta-avatar.text-center Gestión de la digitalización
+                p.text-tarjeta-avatar.text-center.px-4.pb-4 Las organizaciones situadas en esta dimensión están creando internamente las capacidades de liderazgo necesarias para transformar digitalmente y de manera integral toda la organización. 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-10
-        img.img-t.img-a.margin-img(src='@/assets/ilustraciones/img5.svg', alt='') 
+        img.img-t.img-a(src='@/assets/ilustraciones/img5.svg', alt='') 
 
     .titulo-segundo#t_1_2.mt-5
       .h4 1.2 Aplicación de herramienta de autodiagnóstico de entrada y de salida 
@@ -103,13 +105,12 @@
                     img.img-t(src='@/assets/ilustraciones/img11.png', alt='')
 
               .modal-footer
-                button.btn.boton--b(type='button' data-bs-dismiss='modal') Close                  
+                button.btn.boton--b(type='button' data-bs-dismiss='modal') cerrar                  
 
       .col-12.col-md-6.m-bg-2.p-5
         img.img-t(src='@/assets/ilustraciones/img8.svg', alt='')
         p.mt-2 #[b Nivel 2. Gestor digital]
-        p.mt-3 Según lo establece Colombia Productiva (2019):
-        p.mt-3 las organizaciones motivadas para provocar el cambio digital, pero sin una estrategia basada en el conocimiento sobre cómo esta transformación puede y debe aportar valor al negocio. Estas organizaciones, a pesar de encontrarse en situaciones de madurez digital en algunas de sus unidades de negocio, carecen aún de una estrategia global como organización (s. p.).
+        p.mt-3 Según lo establece Colombia Productiva (2019): las organizaciones motivadas para provocar el cambio digital, pero sin una estrategia basada en el conocimiento sobre cómo esta transformación puede y debe aportar valor al negocio. Estas organizaciones, a pesar de encontrarse en situaciones de madurez digital en algunas de sus unidades de negocio, carecen aún de una estrategia global como organización (s. p.).
 
         .row.mt-4
           .col-2
@@ -137,14 +138,13 @@
                   .col-auto
                     img.img-t(src='@/assets/ilustraciones/img12.png', alt='')
               .modal-footer
-                button.btn.boton--b(type='button' data-bs-dismiss='modal') Close                  
+                button.btn.boton--b(type='button' data-bs-dismiss='modal') cerrar                  
 
     .row.justify-content-center.align-items-stretch
       .col-12.col-md-6.m-bg-3.p-5
         img.img-t(src='@/assets/ilustraciones/img9.svg', alt='')
         p.mt-2 #[b Nivel 3. Ejecutivo digital]
-        p.mt-3 Desde Colombia Productiva (2019) se señala que:
-        p.mt-3 las organizaciones que ponen la prudencia por delante de la innovación, que entienden la importancia de la estrategia, de la coordinación, de la gobernanza y de la cultura organizacional a la hora de abordar un proceso de transformación. Sin embargo, son escépticos sobre el valor de lo digital en estos procesos, aunque están dispuestos a invertir en cambio digital. Su actitud excesivamente cuidadosa de abordar estos temas les hace perder oportunidades frente a otras organizaciones más arriesgadas (s. p.).
+        p.mt-3 Desde Colombia Productiva (2019) se señala que: las organizaciones que ponen la prudencia por delante de la innovación, que entienden la importancia de la estrategia, de la coordinación, de la gobernanza y de la cultura organizacional a la hora de abordar un proceso de transformación. Sin embargo, son escépticos sobre el valor de lo digital en estos procesos, aunque están dispuestos a invertir en cambio digital. Su actitud excesivamente cuidadosa de abordar estos temas les hace perder oportunidades frente a otras organizaciones más arriesgadas (s. p.).
 
         .row.mt-4
           .col-2
@@ -167,13 +167,12 @@
                   .col-auto
                     img.img-t(src='@/assets/ilustraciones/img13.png', alt='')
               .modal-footer
-                button.btn.boton--b(type='button' data-bs-dismiss='modal') Close                  
+                button.btn.boton--b(type='button' data-bs-dismiss='modal') cerrar                  
 
       .col-12.col-md-6.m-bg-4.p-5
         img.img-t(src='@/assets/ilustraciones/img10.svg', alt='')
         p.mt-2 #[b Nivel 4. Transformador  digital]
-        p.mt-3 Siguiendo a Colombia Productiva (2019), se establece que:
-        p.mt-3 las organizaciones que saben cómo aportar valor al negocio desde la transformación digital, combinan visión y gobernanza con el compromiso por la inversión y el crecimiento empresarial. Gracias a la visión global y a la integración de toda la organización en la estrategia de transformación digital logran desarrollar una cultura digital que les permite incorporar nuevos cambios a su modelo de negocio (s. p.).
+        p.mt-3 Siguiendo a Colombia Productiva (2019), se establece que: las organizaciones que saben cómo aportar valor al negocio desde la transformación digital, combinan visión y gobernanza con el compromiso por la inversión y el crecimiento empresarial. Gracias a la visión global y a la integración de toda la organización en la estrategia de transformación digital logran desarrollar una cultura digital que les permite incorporar nuevos cambios a su modelo de negocio (s. p.).
 
         .row.mt-4
           .col-2
@@ -239,13 +238,26 @@
                   .col-auto
                     img.img-t(src='@/assets/ilustraciones/img14.png', alt='')
               .modal-footer
-                button.btn.boton--b(type='button' data-bs-dismiss='modal') Close                          
+                button.btn.boton--b(type='button' data-bs-dismiss='modal') cerrar                          
 
     .titulo-segundo#t_1_3.my-5
       .h4 1.3 Análisis e interpretación de información 
     .imagen-titulo--izq
       figure
         img(src='@/assets/ilustraciones/img15.png', alt='Texto que describa la imagen')
+    .tarjeta.tarjeta--amarilla.p-3.mt-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/componentes/ej-02.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              .h5.mb-0 El diagnóstico empresarial,formación y plan de mejora
+              p.text-small Análisis e interpretación de información
+            .col-sm-auto
+              a.boton.boton--b(:href="obtenerLink('/downloads/CF2_Extencionismo_Graficos_analisis.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download        
     p.mt-5 Una vez se haya realizado la identificación de las dimensiones y niveles, se deben tener en cuenta los siguientes tipos de análisis: 
     .row.justify-content-center.align-items-center.mt-5
       .col-10 
@@ -349,7 +361,7 @@
     .row.mt-5
       .col-12
         .cajon--rojo.p-4
-          p Así mismo, se define estratégicamente el foco (área, proceso, personas) y tiempos de trabajo enmarcados en las variables del autodiagnóstico tales como estrategia, gestión, directivos, relación con clientes, servicios posventa, clientes, operaciones, logística externa, financiera, estructura de costos, flujo de ingresos, compras, gestión de tecnología, colaboradores y sociedad civil.  
+          p Así mismo, se define estratégicamente el foco (área, proceso, personas) y tiempos de trabajo enmarcados en las variables del autodiagnóstico tales como estrategia, gestión, directivos, relación con clientes, servicios postventa, clientes, operaciones, logística externa, financiera, estructura de costos, flujo de ingresos, compras, gestión de tecnología, colaboradores y sociedad civil.  
     p.mt-5 Por consiguiente, de esta forma se definirán las variables sobre las que se implementará el plan de mejora que, en su totalidad, incluirá el autodiagnóstico previamente desarrollado, las necesidades identificadas, la línea base, la proyección de mejora sobre esta línea base, las actividades a desarrollar, las formaciones/capacitaciones sugeridas, el tiempo de implementación proyectado y las tecnologías planteadas para dar cumplimiento a los objetivos a alcanzar con las empresas.
 
     .tooltip

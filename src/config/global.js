@@ -1,7 +1,7 @@
 export const global = {
   componenteFormativo: 'El diagnóstico empresarial, formación y plan de mejora',
   descripcionCurso:
-    'El programa de extensionismo tecnológico del SENA busca que los profesionales consultores que trabajan la metodología desde los roles de gestor consultor y extensionista tecnológico adquieran las competencias propicias y desarrolladas en el marco de la implementación de la estrategia y, al mismo tiempo, fortalezcan sus saberes, conocimientos y competencias relacionados con la gestión empresarial y gestión informática requerida para el cambio de la transformación digital en las empresas en Colombia.</br>    Para este componente es importante que el aprendiz apropie las generalidades del autodiagnóstico en el cual se validan 15 variables y las necesidades de cada empresa en función de una relación entre alcance, tiempos y recursos de cada organización.</br>En esta etapa de la metodología de extensionismo tecnológico se determina un listado de necesidades, con la finalidad de desarrollar un match (cruce de datos), con el autodiagnóstico, con relación a la información suministrada por el empresario en el autodiagnóstico y las necesidades actuales de la empresa, se procede a elegir estratégicamente, sobre qué dimensión, nivel y/o variables se espera trabajar de cara al proceso de extensionismo tecnológico; posteriormente, se realiza un acuerdo con el empresario en relación a los tiempos y estrategias para la coordinación efectiva entre las partes que faciliten el cumplimiento de objetivos del plan de mejora y de sus necesidades.',
+    'El programa de extensionismo tecnológico del SENA busca que los profesionales consultores que trabajan la metodología desde los roles de gestor consultor y extensionista tecnológico adquieran las competencias propicias y desarrolladas en el marco de la implementación de la estrategia y, al mismo tiempo, fortalezcan sus saberes, conocimientos y competencias relacionados con la gestión empresarial y gestión informática requerida para el cambio de la transformación digital en las empresas en Colombia.',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
@@ -110,25 +110,25 @@ export const creditos = {
     },
     {
       nombre: 'Luis Guillermo Alvarez García',
-      cargo: 'Experta temática',
+      cargo: 'Experto temático',
       centro: 'Centro De Servicios y Gestión Empresarial',
       regional: 'Regional Antioquia',
     },
     {
       nombre: 'Alejandro Moncada Betancur',
-      cargo: 'Experta temática',
+      cargo: 'Experto temático',
       centro: 'Centro De Procesos Industriales y Construcción',
       regional: 'Regional Caldas',
     },
     {
       nombre: 'Leidy Yohana Ortiz Diaz',
-      cargo: 'Experto temático',
+      cargo: 'Experta temática',
       centro: 'Centro de la Industria, la Empresa y los Servicios',
       regional: 'Regional Norte de Santander',
     },
     {
       nombre: 'Gimena Santacruz Benítez',
-      cargo: 'Experto temático',
+      cargo: 'Experta temática',
       centro: 'Centro de la Industria, la Empresa y los Servicios Regional,',
       regional: 'Regional Huila',
     },
@@ -158,7 +158,7 @@ export const creditos = {
     },
     {
       nombre: 'Leyson Fabian Castaño Perez',
-      cargo: 'Integración de recursos y pruebas',
+      cargo: 'Soporte organizacional',
     },
     {
       nombre: [

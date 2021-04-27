@@ -367,7 +367,7 @@ export default {
       span
         color: $color-sistema-a !important
     &--disable
-      opacity: 0
+      opacity: 0Ñ
       pointer-events: none
 
   &--open
