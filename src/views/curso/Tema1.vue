@@ -9,7 +9,7 @@
     .titulo-segundo#t_1_1.mt-5
       .h4 1.1  Fundamentos de diagnóstico empresarial 
     .h4 El diagnóstico empresarial, formación y plan de mejora
-    p En este componente formativo se abordará la etapa de Identificación de necesidades, la cual estará apoyada por la plataforma informática SoftWhere, como herramienta tecnológica y los formatos definidos en la metodología de extensionismo tecnológico para priorizar estas necesidades.
+    p En este material de formación se abordará la etapa de Identificación de necesidades, la cual estará apoyada por la plataforma informática SoftWhere, como herramienta tecnológica y los formatos definidos en la metodología de extensionismo tecnológico para priorizar estas necesidades.
     .row.mt-5
       .col-12
         .cajon--azul.p-4.mb-5.mb-lg-0
@@ -20,7 +20,7 @@
         img.img-t.img-a(src='@/assets/ilustraciones/img1.png', alt='') 
 
     .h4.mt-5 Fundamentos de diagnóstico empresarial
-    p.mt-5 Colombia productiva (2019) del Ministerio de Industria, Comercio y Turismo (MinCIT) en articulación con la empresa SoftWhere, desarrollaron un autodiagnóstico empresarial de las MiPymes en las siguientes dimensiones:    
+    p.mt-5 Colombia productiva (2019) del Ministerio de Comercio, Industria y Turismo (MinCIT) en articulación con la empresa SoftWhere, desarrollaron un autodiagnóstico empresarial de las MiPymes en las siguientes dimensiones:    
     .row.justify-content-center.align-items-center
       .col-11
         .row.mt-5
@@ -242,22 +242,10 @@
 
     .titulo-segundo#t_1_3.my-5
       .h4 1.3 Análisis e interpretación de información 
-    .imagen-titulo--izq
-      figure
-        img(src='@/assets/ilustraciones/img15.png', alt='Texto que describa la imagen')
-    .tarjeta.tarjeta--amarilla.p-3.mt-5
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/componentes/ej-02.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 El diagnóstico empresarial,formación y plan de mejora
-              p.text-small Análisis e interpretación de información
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/CF2_Extencionismo_Graficos_analisis.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download        
+    figure.mt-5 
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/WRl5MNqvEeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     p.mt-5 Una vez se haya realizado la identificación de las dimensiones y niveles, se deben tener en cuenta los siguientes tipos de análisis: 
     .row.justify-content-center.align-items-center.mt-5
       .col-10 
