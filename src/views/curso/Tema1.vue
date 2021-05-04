@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 1
-      .h3 El Diagnóstico Empresarial, formación y Plan de mejora
+      .h3 El diagnóstico empresarial, formación y plan de mejora
     .titulo-segundo#t_1_1.mt-5
       .h4 1.1  Fundamentos de diagnóstico empresarial 
     .h4 El diagnóstico empresarial, formación y plan de mejora

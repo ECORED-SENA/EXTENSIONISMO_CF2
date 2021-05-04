@@ -1,7 +1,7 @@
 export const global = {
   componenteFormativo: 'El diagnóstico empresarial, formación y plan de mejora',
   descripcionCurso:
-    'Este material presenta las generalidades del autodiagnóstico en donde se validan las variables y necesidades de cada empresa en función de una relación entre alcance, tiempos y recursos de cada organización. En esta etapa de la metodología de extensionismo tecnológico se determina un listado de necesidades, con la finalidad de desarrollar un match (cruce de datos), con la información suministrada por el empresario en el auto diagnóstico y las necesidades actuales de la empresa, para finalmente elegir aquellas variables que se trabajarán en el proceso de extensionismo tecnológico.',
+    'Este material presenta las generalidades del autodiagnóstico en donde se validan las variables y necesidades de cada empresa en función de una relación entre alcance, tiempos y recursos de cada organización. En esta etapa de la metodología de extensionismo tecnológico se determina un listado de necesidades, con la finalidad de desarrollar un match (cruce de datos), con la información suministrada por el empresario en el autodiagnóstico y las necesidades actuales de la empresa, para finalmente elegir aquellas variables que se trabajarán en el proceso de extensionismo tecnológico.',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
@@ -17,13 +17,13 @@ export const menuPrincipal = {
       nombreRuta: 'tema1',
       icono: 'far fa-file-alt',
       numero: '1',
-      titulo: 'El Diagnóstico Empresarial, formación y Plan de mejora',
+      titulo: 'El diagnóstico empresarial, formación y plan de mejora',
       desarrolloContenidos: true,
       subMenu: [
         {
           icono: 'far fa-file-alt',
           numero: '1.1',
-          titulo: 'El Diagnóstico Empresarial, formación y Plan de mejora',
+          titulo: 'El diagnóstico empresarial, formación y plan de mejora',
           hash: 't_1_1',
         },
         {
